@@ -29,3 +29,4 @@ override.tf.json
 # example: *tfplan*
 
 private-key.tf
+service-principle.txt

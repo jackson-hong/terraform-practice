@@ -1,6 +1,0 @@
-{
-  "appId": "1ef44f70-3f70-476a-baaa-502d5dd2b4be",
-  "displayName": "azure-cli-2023-04-05-21-47-33",
-  "password": "_B68Q~dScQZvNCrcmNG.KUGzNWgVOueMzAc3iaH9",
-  "tenant": "30b5237c-1c2c-4f03-ae06-37f8ddf06dfb"
-}
